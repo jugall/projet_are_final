@@ -1,2 +1,3 @@
 # projet_are_final
-Projet are S2
+Projet de modélisation d'un traffic routier à différentes échelles en python.
+Ouvrir le fichier ARE_FINAL
